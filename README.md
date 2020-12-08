@@ -24,7 +24,7 @@ The goal of this project is to detect failed or failing 3D printing projects dur
 All images are individually scraped from google images. There are 120 successful print images, and 120 failed/failing print images. 6 video streams have images sampled from them at specified intervals.
 
 #### Good print:
-![Good Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/good.jpg?raw=true)
+![Good Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/good2.jpg?raw=true)
 
 #### Failed print:
 ![Failed Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/fail.jpg?raw=true)
