@@ -19,8 +19,8 @@ The goal of this project is to detect failed or failing 3D printing projects dur
 ##### SGDModel.pkl
 - File containing the model.
 
-##### Data:
-- Contains images and video streams that are used as training, test and predictions in the model.
+##### Data
+- Directory containing images and video streams that are used as training, test and predictions in the model.
 
 
 ## Data Source
