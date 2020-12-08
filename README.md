@@ -16,6 +16,9 @@ The goal of this project is to detect failed or failing 3D printing projects dur
 - Imports the data and exports the model in a `.plk` format.
 - Adjustable parameters are in the first few lines. See file for descriptions.
 
+##### SGDModel.pkl
+- File containing the model.
+
 ##### Data:
 - Contains images and video streams that are used as training, test and predictions in the model.
 
