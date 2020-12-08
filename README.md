@@ -27,10 +27,10 @@ All images are individually scraped from google images. There are 120 successful
 ![Good Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/good2.jpg?raw=true)
 
 #### Failed print:
-![Failed Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/fail.jpg?raw=true)
+![Failed Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/fail2.jpg?raw=true)
 
 #### Failing print:
-![Failing Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/almost.jpg?raw=true)
+![Failing Print](https://github.com/KAValerio/3D-Printing-Classification/blob/main/Figures/almost2.jpg?raw=true)
 
 ## Methodology
 I created a binary image classification model using the dataset described above. Once this model was created, a photograph of the user's 3D printing project can be automatically taken at a specified time interval (e.g. every 1, 5 or 10 minutes) and fed into the model to predict the state of the print (i.e. is the current print a success or failure). 
